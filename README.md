@@ -42,4 +42,16 @@ Sistema modular con módulos de órdenes, inventario, caja y reportes financiero
   - Lideré equipo de desarrollo, optimicé servicios .NET/C# en producción 24/7
   - Gestión de incidentes de alto impacto y automatización de procesos
 
-- **Desar
+- **Desarrollador Full-Stack** @ KaiEvolve S.A.S (2021–2022)
+  - Microservicios en Azure con .NET Core, Python y JavaScript
+
+---
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnalejandroleiva-04365631a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jhonalkan23@gmail.com)
+
+---
+
+*Bogotá, Colombia · Disponible para trabajo remoto e híbrido*
